@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamza90133512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza90133512" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/futuretech.click/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/futuretech.click/" height="30" width="40" /></a>
+<a href="https://fb.com/future tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="future tech" height="30" width="40" /></a>
 <a href="https://instagram.com/futuretech.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="futuretech.11" height="30" width="40" /></a>
 </p>
 
