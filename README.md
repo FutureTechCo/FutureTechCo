@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futuretechco" alt="futuretechco" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hamza90133512" target="blank"><img src="https://img.shields.io/twitter/follow/hamza90133512?logo=twitter&style=for-the-badge" alt="hamza90133512" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [DilePizzaa](https://onelink.to/zf7dbr)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamza90133512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza90133512" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/future-tech-52737824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="future-tech-52737824a" height="30" width="40" /></a>
 <a href="https://fb.com/futuretech.click" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="futuretech.click" height="30" width="40" /></a>
 <a href="https://instagram.com/futuretech.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="futuretech.11" height="30" width="40" /></a>
 </p>
